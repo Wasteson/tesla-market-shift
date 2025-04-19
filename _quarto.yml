@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tesla Market Shift"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
